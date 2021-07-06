@@ -5,7 +5,7 @@ body{
 span{
     color: orange;
 }
-.section{
+.first-section{
     display: flex;
     margin-bottom: 100px;
 }
