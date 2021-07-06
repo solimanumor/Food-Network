@@ -10,10 +10,9 @@ span{
     margin-bottom: 100px;
 }
 .first-half{
-    text-align: justify;
     width: 50%;
     font-size: 30px;
-    padding-left: 100px;
+    padding-left: 70px;
     padding-top: 100px;
 }
 .first-half img{
@@ -29,4 +28,8 @@ span{
     padding: 10px 20px;
     border-radius: 50px;
     background-image: linear-gradient(rgb(185, 79, 185), rgb(53, 10, 97));
+}
+.text{
+    text-align:center;
+    padding: 20px 400px;
 }
