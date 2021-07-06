@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+span{
+    color: orange;
+}
+.section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.first-half{
+    text-align: justify;
+    width: 50%;
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.first-half img{
+    width: 100%;
+}
+.background{
+    background-image: url(food-network-main/images/shapes/3.jpg);
+}
+.Button{
+    text-decoration: none;
+    color: palegoldenrod;
+    background-color: rebeccapurple;
+    padding: 10px 20px;
+    border-radius: 50px;
+    background-image: linear-gradient(rgb(185, 79, 185), rgb(53, 10, 97));
+}
