@@ -81,9 +81,11 @@ span{
     background-color: black;
     text-align: center;
     color: rgb(73, 72, 72);
-    
-}
+    }
 #text-color{
     color: whitesmoke;
     font-weight: 400;
+}
+.Footer a{
+    text-decoration: none;
 }
