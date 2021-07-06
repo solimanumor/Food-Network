@@ -77,7 +77,12 @@ span{
 .fifth-section-text{
     color: rgb(221, 21, 221);
 }
-.footer{
+.Footer{
     background-color: black;
     text-align: center;
+    color: rgb(73, 72, 72);
+    
+}
+#text-color{
+    color: whitesmoke;
 }
