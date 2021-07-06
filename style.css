@@ -2,6 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+.line-space{
+    line-height: .8;
+}
 span{
     color: orange;
 }
@@ -27,7 +30,7 @@ span{
     background-color: rebeccapurple;
     padding: 10px 20px;
     border-radius: 50px;
-    background-image: linear-gradient(rgb(185, 79, 185), rgb(53, 10, 97));
+    background-image: linear-gradient(rgb(247, 131, 247), rgb(42, 5, 80));
 }
 .third-section-text{
     text-align:center;
@@ -60,5 +63,21 @@ span{
     padding-left: 15%
 }
 .forth-section-item h1 {
+    text-align: center;
+}
+.fifth-section{
+    display: flex;
+    margin-bottom: 100px;
+    background-color: rgba(221, 221, 221, 0.425);
+}
+.fifth-section-item{
+    margin: 30px;
+    padding-left: 20%;
+}
+.fifth-section-text{
+    color: rgb(221, 21, 221);
+}
+.footer{
+    background-color: black;
     text-align: center;
 }
