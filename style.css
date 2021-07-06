@@ -29,7 +29,22 @@ span{
     border-radius: 50px;
     background-image: linear-gradient(rgb(185, 79, 185), rgb(53, 10, 97));
 }
-.text{
+.third-section-text{
     text-align:center;
     padding: 20px 400px;
+}
+.third-section{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+ }
+.third-section-item img{
+    width: 100%;
+}
+.third-section-item{
+    padding: 20px;
+    box-shadow: 15px 15px 20px gray;
+    border-radius: 20px;
+    margin: 20px;
 }
