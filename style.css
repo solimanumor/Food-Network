@@ -48,3 +48,17 @@ span{
     border-radius: 20px;
     margin: 20px;
 }
+.forth-section{
+    display: flex;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 25px grey;
+}
+.forth-section-item{
+    padding-left: 15%
+}
+.forth-section-item h1 {
+    text-align: center;
+}
